@@ -2,6 +2,13 @@
 
 Here are the code to execute the Lab Exercise number 2.
 
+````pyhton
+import seaborn as sns
+import matplotlib.pyplot as plt
+from pandas import read_csv
+from pandas import read_csv
+````
+
 The Lab Exercise #2 introduces the fundamental Python libraries for data science: NumPy,
  SciPy, Matplotlib, and Seaborn. These importants libraries give powerful tools for
  numerical computing, scientific computing, and visualization of data. By managing these
