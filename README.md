@@ -17,4 +17,8 @@ The Lab Exercise #2 introduces the fundamental Python libraries for data science
  Matplotlib, Seaborn gives a high level interface for creating statistical graphics, making it
  easier to produce visually appealing and informative plots for data analysis. All of these
  libraries form a strong toolkit for numerical computing, scientific analysis, and data
- visualization in Python
+ visualization in Python.
+
+ ````bash
+pip install foobar
+````
