@@ -2,7 +2,9 @@
 
 Here are the code to execute the Lab Exercise number 2.
 
-````pyhton
+## Usage
+
+````python
 import seaborn as sns
 import matplotlib.pyplot as plt
 from pandas import read_csv
